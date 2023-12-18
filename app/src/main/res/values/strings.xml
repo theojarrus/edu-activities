@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EduExampleApp</string>
+    <string name="return_text">Return</string>
+    <string name="open_second_activity">Open second activity</string>
+    <string name="open_camera">Open camera</string>
+    <string name="sample_text">Sample Text</string>
+    <string name="show_toast">Show toast</string>
+</resources>
